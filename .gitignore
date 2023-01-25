@@ -4,11 +4,11 @@
 *.a
 
 # Emacs Save Files
-*_
-\#"\#
+*~
+\#*\#
 .\#"
 
-# Debugging Symbols
+# debugging Symbols
 *.dSYM
 
 
